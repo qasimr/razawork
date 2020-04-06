@@ -24,6 +24,7 @@
 
       </nav>
 
+      <article>
 
       <section id="header" class="header">
 
@@ -95,7 +96,7 @@
       </section>
 
 
-
+      </article>
 
       <section id="contact" class="footer">
 
