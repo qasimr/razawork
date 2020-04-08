@@ -19,8 +19,9 @@
         </div>
 
         <ul class="right">
-          <li><a class="links" href="/">Startseite</a></li>
-          <li><a class="links" href="/impressum" target="_blank">Impressum</a></li>
+          <li><a class="links"  href="javascript:window.open('','_self').close();">Tab schließen</a></li>
+          <li><a class="links" href="/impressum">Impressum</a></li>
+          <li><a class="links" href="mailto:halloqasim@raza.work?subject=Hallo Qasim, ich bin (Ihr Name)">halloqasim@raza.work</a></li>
         </ul>
 
       </nav>

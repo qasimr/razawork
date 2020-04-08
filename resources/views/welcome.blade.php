@@ -13,13 +13,14 @@
       <nav class="home-title">
 
         <div class="align-center">
-          <a tabindex="0" href="#"><img class="logo" id="logo" src="storage/logo_raza-work_qasim.svg" alt="Qasim Raza Emblem"></a>
+          <a tabindex="0" href="#"><img class="logo bgwhite" id="logo" src="storage/logo_raza-work_qasim.svg" alt="Qasim Raza Emblem"></a>
           <a tabindex="0" href="#"><img class="logo" id="logo" src="storage/logo_raza-work_raza.svg" alt="Qasim Raza Emblem"></a>
         </div>
 
         <ul class="right">
           <li><a class="links" href="/datenschutz" target="_blank">Datenschutzerklärung</a></li>
           <li><a class="links" href="/impressum" target="_blank">Impressum</a></li>
+          <li><a class="links" href="mailto:halloqasim@raza.work?subject=Hallo Qasim, ich bin (Ihr Name)">halloqasim@raza.work</a></li>
         </ul>
 
       </nav>
@@ -41,6 +42,20 @@
 
       <section class="hello">
 
+        <a href="https://grandcoup.com" target="_blank"><span>GRANDCOUP</span></a></br>
+        <p><span>(Design/IT/Marketing)</span></p>
+
+      </section>
+
+      <section class="hello">
+
+        <a href="https://romotech.de" target="_blank"><span>ROMOTECH GMBH</span></a></br>
+        <p><span>(Design/IT)</span></p>
+
+      </section>
+
+      <section class="hello">
+
         <a href="https://bluelotus.ai" target="_blank"><span>BlueLotus.AI GMBH</span></a></br>
         <p><span>(Logo)</span></p>
 
@@ -49,13 +64,13 @@
       <section class="hello">
 
         <a href="https://ger-made.de" target="_blank"><span>GER-made GMBH</span></a></br>
-        <p><span>(Design/IT/Logo/SEO)</span></p>
+        <p><span>(Design/IT/Logo)</span></p>
 
       </section>
 
       <section class="hello">
 
-        <a href="https://grandcoup.com" target="_blank"><span>GRANDCOUP</span></a></br>
+        <a href="http://www.sonan.productions" target="_blank"><span>SONAN.productions</span></a></br>
         <p><span>(Design/IT/Marketing)</span></p>
 
       </section>
@@ -63,35 +78,28 @@
       <section class="hello">
 
         <a href="https://avestaferosi.de" target="_blank"><span>AVESTA FEROSI</span></a></br>
-        <p><span>(Design/IT/SEO)</span></p>
-
-      </section>
-
-      <section class="hello">
-
-        <a href="https://romotech.de" target="_blank"><span>ROMOTECH GMBH</span></a></br>
-        <p><span>(Design/IT/SEO)</span></p>
-
-      </section>
-
-      <section class="hello">
-
-        <a href="http://www.sonan.productions" target="_blank"><span>SONAN.productions</span></a></br>
-        <p><span>(Design/IT/Marketing/SEO)</span></p>
+        <p><span>(Design/IT)</span></p>
 
       </section>
 
       <section class="hello">
 
         <a href="https://MMS.today" target="_blank"><span>MMS.today</span></a></br>
-        <p><span>((Design/IT/Logo/Marketing/SEO)</span></p>
+        <p><span>(Design/IT/Logo/Marketing)</span></p>
+
+      </section>
+
+      <section class="hello">
+
+        <a href="" target="_blank"><span>Winterengel</span></a></br>
+        <p><span>(Design)</span></p>
 
       </section>
 
       <section class="hello">
 
         <a href="https://www.instagram.com/curryclubfrankfurt/" target="_blank"><span>CURRY CLUB GMBH</span></a></br>
-        <p><span>(Marketing/SEO)</span></p>
+        <p><span>(Marketing)</span></p>
 
       </section>
 
@@ -99,18 +107,26 @@
       </article>
 
       <section id="contact" class="footer">
+        <div class="footertext">
+          <div class="bye">
+            <a class="bye" id="insta" href="https://www.instagram.com/justqasim" target="_blank">Instagram</a>
+            <a class="bye" id="pin" href="https://www.pinterest.de/qasimgroup/" target="_blank">Pinterest</a>
+          </div>
 
-        <div class="bye">
-          <a class="bye" id="insta" href="https://www.instagram.com/justqasim" target="_blank">Instagram</a>
-          <a class="bye" id="pin" href="https://www.pinterest.de/qasimgroup/" target="_blank">Pinterest</a>
+          <h2 tabindex="0" class=" home-title"><a href="mailto:halloqasim@raza.work?subject=Hallo Qasim, ich bin (Ihr Name)">halloqasim@raza.work</a></h2>
+
+          <!-- <div class="footerlogo">
+            <a tabindex="0" href="#"><img id="footerlogo" src="storage/logo_raza-work_qasim.svg" alt="Qasim Raza Emblem"></a>
+            <a tabindex="0" href="#"><img id="footerlogo" src="storage/logo_raza-work_raza.svg" alt="Qasim Raza Emblem"></a>
+          </div> -->
+
+          <div class="bye">
+            <a class="bye" href="/datenschutz" target="_blank">Datenschutzerklärung</a>
+            <a class="bye" href="/impressum" target="_blank">Impressum</a>
+          </div>
         </div>
 
-        <h2 tabindex="0" class=" home-title"><a href="mailto:halloqasim@raza.work?subject=Hallo Qasim, ich bin (Ihr Name)">halloqasim@raza.work</a></h2>
 
-        <div class="bye">
-          <a class="bye" href="/datenschutz" target="_blank">Datenschutzerklärung</a>
-          <a class="bye" href="/impressum" target="_blank">Impressum</a>
-        </div>
 
       </section>
 
@@ -156,7 +172,7 @@
         </script>
 
         <script>
-          const colors = ['', 'white', 'bluelotus', 'germade', 'grandcoup', 'avesta', 'romotech', 'sonan', 'mms', 'cc', 'black']
+          const colors = ['', 'white', 'grandcoup', 'romotech', 'bluelotus', 'germade', 'sonan', 'avesta', 'mms', 'winterengel', 'cc', 'black']
 
           const sections = [...document.getElementsByTagName('section')]
 
@@ -175,5 +191,7 @@
 
           })
         </script>
+
+
     </body>
 </html>
