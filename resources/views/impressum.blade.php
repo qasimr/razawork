@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="{{ asset("css/app.css") }}" rel="stylesheet">
+      <meta name="p:domain_verify" content="e18b1223482abed90d61adf8afd2ad92"/>
+      <meta name="description" content="A shorted list of the customers of a designer based in Frankfurt, Germany">
+      <meta name="keywords" content="design, fashion, marketing, seo, frankfurt, it, website, logo, club, restaurant, coaching, consulting, frankfurt, capture the moment">
+      <meta name="author" content="Qasim Raza">
 
-        <link href="{{ asset("css/app.css") }}" rel="stylesheet">
-
-        <title>RAZA.work</title>
+      <title>RAZA.work</title>
 
     </head>
 
