@@ -9,9 +9,11 @@
       <meta name="description" content="A shorted list of the customers of a designer based in Frankfurt, Germany">
       <meta name="keywords" content="design, fashion, marketing, seo, frankfurt, it, website, logo, club, restaurant, coaching, consulting, frankfurt, capture the moment">
       <meta name="author" content="Qasim Raza">
+      <link rel="shortcut icon" href="storage/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="storage/favicon.ico" type="image/x-icon">
 
       <title>RAZA.work</title>
-      
+
     </head>
 
     <body id="body">
