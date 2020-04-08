@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap);@import url(https://fonts.googleapis.com/css?family=Bebas+Neue|&display=swap);@import url(https://fonts.googleapis.com/css?family=Playfair+Display&display=swap);@charset "UTF-8";
-
-::-webkit-scrollbar {
+@import url(https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap);@import url(https://fonts.googleapis.com/css?family=Bebas+Neue|&display=swap);@import url(https://fonts.googleapis.com/css?family=Playfair+Display&display=swap);::-webkit-scrollbar {
   width: 0 !important;
 }
 
@@ -209,16 +207,8 @@ nav a {
   color: black;
 }
 
-.mms nav {
-  background: black;
-}
-
 .mms nav a {
-  color: white;
-}
-
-.mms nav .bgwhite {
-  background: white;
+  color: black;
 }
 
 .cc {
@@ -387,6 +377,10 @@ nav {
 
 .footer {
   height: 60vh;
+}
+
+.small {
+  font-size: 1rem;
 }
 
 @media (min-width: 768px) {

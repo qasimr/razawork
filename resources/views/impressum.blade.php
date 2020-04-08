@@ -19,9 +19,7 @@
         </div>
 
         <ul class="right">
-          <li><a class="links"  href="javascript:window.open('','_self').close();">Tab schließen</a></li>
-          <li><a class="links" href="/datenschutz" class="links">Datenschutzerklärung</a></li>
-          <li><a class="links" href="mailto:halloqasim@raza.work?subject=Hallo Qasim, ich bin (Ihr Name)">halloqasim@raza.work</a></li>
+          <li><a class="links"  href="javascript:window.open('','_self').close();">Zurück</a></li>
         </ul>
 
       </nav>

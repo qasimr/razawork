@@ -15,13 +15,11 @@
       <nav class="home-title" >
 
         <div class="align-center">
-          <a tabindex="0" href="/"><img class="logo" id="logo1" src="storage/logo_raza-work_raza.png" alt="Qasim Raza Emblem"></a>
+          <a tabindex="0" href="#"><img class="logo" id="logo1" src="storage/logo_raza-work_raza.png" alt="Qasim Raza Emblem"></a>
         </div>
 
         <ul class="right">
-          <li><a class="links"  href="javascript:window.open('','_self').close();">Tab schließen</a></li>
-          <li><a class="links" href="/impressum">Impressum</a></li>
-          <li><a class="links" href="mailto:halloqasim@raza.work?subject=Hallo Qasim, ich bin (Ihr Name)">halloqasim@raza.work</a></li>
+          <li><a class="links"  href="javascript:window.open('','_self').close();">Zurück</a></li>
         </ul>
 
       </nav>
