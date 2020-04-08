@@ -26,6 +26,12 @@ html {
     transition: 1s all;
     zoom: 100%;
 }
+.recht {
+  padding-right: 2vw;
+  padding-left: 2vw;
+  padding-top: 30vw;
+  padding-bottom: 30vw;
+}
 
 .header {
     height: 180vh;
@@ -280,6 +286,7 @@ a:hover {
 }
 
 .article {
+  font-size: 0.7rem;
     height: auto;
     text-align: left;
 
@@ -404,7 +411,20 @@ nav {
 .small {
     font-size: 1rem;
 }
+article {
+  p {
+    margin: 0.1em;
+  }
+}
 @media (min-width: 768px) {
+
+  .recht {
+    padding: 20vw;
+    a {
+      text-decoration: underline;
+    }
+  }
+
     .header {
         transition: all 1s ease-in-out;
 

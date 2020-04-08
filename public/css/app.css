@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap);@import url(https://fonts.googleapis.com/css?family=Bebas+Neue|&display=swap);@import url(https://fonts.googleapis.com/css?family=Playfair+Display&display=swap);::-webkit-scrollbar {
+@import url(https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap);@import url(https://fonts.googleapis.com/css?family=Bebas+Neue|&display=swap);@import url(https://fonts.googleapis.com/css?family=Playfair+Display&display=swap);@charset "UTF-8";
+
+::-webkit-scrollbar {
   width: 0 !important;
 }
 
@@ -22,6 +24,13 @@ html {
   text-align: center;
   transition: 1s all;
   zoom: 100%;
+}
+
+.recht {
+  padding-right: 2vw;
+  padding-left: 2vw;
+  padding-top: 30vw;
+  padding-bottom: 30vw;
 }
 
 .header {
@@ -258,6 +267,7 @@ a:hover {
 }
 
 .article {
+  font-size: 0.7rem;
   height: auto;
   text-align: left;
 }
@@ -383,7 +393,19 @@ nav {
   font-size: 1rem;
 }
 
+article p {
+  margin: 0.1em;
+}
+
 @media (min-width: 768px) {
+  .recht {
+    padding: 20vw;
+  }
+
+  .recht  a {
+    text-decoration: underline;
+  }
+
   .header {
     transition: all 1s ease-in-out;
   }
