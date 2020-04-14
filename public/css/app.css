@@ -25,6 +25,7 @@ html {
 
 .article {
   padding: 20vh 1rem;
+  color: black;
 }
 
 .article span {
@@ -116,6 +117,10 @@ nav a {
   .article {
     padding: 20vh 1rem;
     color: black;
+  }
+
+  .article span {
+    color: white;
   }
 
   .main {
