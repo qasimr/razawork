@@ -39,7 +39,8 @@
 
       <section id="header" class="header flex-center-left">
 
-  	       <p class="focus-in-expand">HALLO WELT ICH BIN <span class="underline--magical">QASIM RAZA<span></p>
+  	     <p class="focus-in-expand">HALLO WELT ICH BIN <span class="underline--magical">QASIM RAZA<span></p>
+           <p>Hier gibt es schon bald eine Auswahl meiner Arbeiten zu sehen, bis dahin musst du dich aber noch gedulden</p>
 
       </section>
 
@@ -47,7 +48,7 @@
       <section id="mms" class="main mms">
       <hr>
       <a href="#mms">MMS.today<span class="pditalic">(Design/IT/Logo/Marketing)</span></a>
-      <p>Hier gibt es demnächst schon mehr zu sehen
+
 
       </section>
 
