@@ -27,8 +27,8 @@
       <nav>
 
         <div class="align-center">
-          <a tabindex="0" href="#"><img class="logo bgwhite" id="logo" src="storage/logo_raza-work_qasim.svg" alt="Qasim Raza Emblem"></a>
-          <a tabindex="0" href="#"><img class="logo" src="storage/logo_raza-work_raza.svg" alt="Qasim Raza Emblem"></a>
+          <a tabindex="0" href="/"><img class="logo bgwhite" id="logo" src="storage/logo_raza-work_qasim.svg" alt="Qasim Raza Emblem"></a>
+          <a tabindex="0" href="/"><img class="logo" src="storage/logo_raza-work_raza.svg" alt="Qasim Raza Emblem"></a>
         </div>
 
         <ul class="right">
