@@ -71,7 +71,7 @@
 
 
       <script>
-            var rightgear = document.getElementById("bglogo");
+            var rightgear = document.getElementById("logo");
 
               window.addEventListener("scroll", function() {
                   rightgear.style.transform = "rotate("+0.03*window.pageYOffset+"deg)";
