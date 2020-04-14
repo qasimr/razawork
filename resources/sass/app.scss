@@ -26,6 +26,11 @@ html {
     text-align: left;
 }
 
+.article {
+  padding: 20vh 1rem;
+  color: black;
+}
+
 .flex-center-left {
     display: flex;
     justify-content: left;
@@ -107,6 +112,11 @@ nav {
     height: 60vh;
 }
 @media (min-width: 768px) {
+
+  .article {
+    padding: 20vh 1rem;
+    color: black;
+  }
     .main {
         padding: 0;
     }

@@ -21,23 +21,24 @@
 
     </head>
 
-    <body id="body" class="sonan recht">
+    <body id="body">
 
-      <nav class="home-title" >
+      <nav class="home-title">
 
         <div class="align-center">
-          <a tabindex="0" href="#"><img class="logo" id="logo1" src="storage/logo_raza-work_raza.png" alt="Qasim Raza Emblem"></a>
+          <a tabindex="0" href="#"><img class="logo bgwhite" id="logo" src="storage/logo_raza-work_qasim.svg" alt="Qasim Raza Emblem"></a>
+          <a tabindex="0" href="#"><img class="logo" src="storage/logo_raza-work_raza.svg" alt="Qasim Raza Emblem"></a>
         </div>
 
         <ul class="right">
-          <li><a class="links"  href="javascript:window.open('','_self').close();">Zurück</a></li>
+          <li><a class="pditalic"  href="javascript:window.open('','_self').close();">Zurück</a></li>
         </ul>
 
       </nav>
 
-      <div>
+      <!-- <div>
         <img class="bglogo" id="bglogo" src="storage/logo_raza-work_qasim.png" alt="Qasim Raza Emblem">
-      </div>
+      </div> -->
 
       <section class="article">
 
