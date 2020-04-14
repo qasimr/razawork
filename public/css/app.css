@@ -28,6 +28,10 @@ html {
   color: black;
 }
 
+.article span {
+  color: white;
+}
+
 .flex-center-left {
   display: flex;
   justify-content: left;

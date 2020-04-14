@@ -23,13 +23,9 @@ Route::get('/datenschutz', function () {
     return view('datenschutz');
 });
 
-Route::get('/rechtliches', function () {
-    return view('rechtliches');
-});
-
 
 Route::get('/{any}', function(){
-        return view('vueapp');
+        return view('errors/404');
 })->where('any', '.*');
 
 // Route::get('/test', function () {
